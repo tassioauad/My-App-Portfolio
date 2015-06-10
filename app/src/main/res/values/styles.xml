@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/lightgreen700</item>
+        <item name="colorPrimaryDark">@color/lightgreen900</item>
+    </style>
+
+    <style name="Toolbar">
+        <item name="android:background">@color/lightgreen700</item>
+    </style>
+
+    <style name="LayoutBody">
+        <item name="android:background">@color/lightgreen50</item>
+    </style>
+
+    <style name="TextViewTitle">
+        <item name="android:textColor">@color/gray800</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ButtonAccent">
+        <item name="android:background">@color/lightgreen700</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="ButtonCommon">
+        <item name="android:background">@color/gray800</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
